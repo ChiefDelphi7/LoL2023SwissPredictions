@@ -5,4 +5,5 @@ See the attatched Excel file for an interactive prediction model for the Worlds 
 2. Matchups after the first round will be truly random.
 
 The v2 version of the predictions file has been updated to reflect the results of the Swiss draw.
+The v3 version has been created, which is up to date through the end of round 1 and draw for round 2.
 
